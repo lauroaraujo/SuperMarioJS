@@ -1,0 +1,23 @@
+{
+  "name": "super-mario-js",
+  "version": "0.0.1",
+  "description": "Super Mario Bros implementation in Javascript, as seen on Meth Meth Method channel on YouTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauroaraujo/SuperMarioJS.git"
+  },
+  "author": "",
+  "license": "GNU General Public License v2.0",
+  "bugs": {
+    "url": "https://github.com/lauroaraujo/SuperMarioJS/issues"
+  },
+  "homepage": "https://github.com/lauroaraujo/SuperMarioJS#readme",
+  "dependencies": {
+    "serve": "^6.2.0"
+  }
+}
